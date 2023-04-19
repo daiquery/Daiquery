@@ -7,7 +7,7 @@
 [![nburneydev@gmail.com](https://img.shields.io/static/v1?label=nburneydev@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:nburneydev@gmail.com)
   
   
-👨‍💻 18 year old software dev
-🤔 currently searching for careers
+👨‍💻 18 year old software dev  
+🤔 currently searching for careers    
 🚧 **current project:** [vgarage](https://github.com/daiquery/car_management)
 
