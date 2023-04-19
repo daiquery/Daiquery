@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=daiquery&show_icons=true">
 
-<!--
-**Daiquery/Daiquery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Nick! 
 
-Here are some ideas to get you started:
+[![daiquery.github.io](https://img.shields.io/static/v1?label=daiquery.github.io&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://daiquery.github.io/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/njburney/)
+[![nburneydev@gmail.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:nburneydev@gmail.com)
+  
+  
+👨‍💻 18 Year Old Developer  
+👨‍🎓 Studying Computer Science here in Switzerland  
+🚧 **Current Project:** [VGarage](https://github.com/daiquery/car_management)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
