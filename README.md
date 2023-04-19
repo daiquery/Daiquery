@@ -9,5 +9,5 @@
   
 👨‍💻 18 year old software dev  
 🤔 currently searching for careers    
-🚧 **current project:** [vgarage](https://github.com/daiquery/car_management)
+🚧 **current project:** [vgarage](https://github.com/daiquery/car_management) (🔒 REPO)
 
