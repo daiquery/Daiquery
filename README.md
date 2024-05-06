@@ -7,5 +7,5 @@
   
 👨‍💻 19 year old software dev  
 🪖 active duty  
-🚧 **current project:** [vgarage](https://github.com/daiquery/car_management) (🔒 REPO)
+🚧 **current project:** none
 
