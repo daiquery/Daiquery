@@ -6,6 +6,5 @@
   
   
 👨‍💻 19 year old software dev  
-🪖 active duty  
-🚧 **current project:** none
+🚧 **current project:** fitrepo
 
