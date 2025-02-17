@@ -5,6 +5,6 @@
 [![nburneydev@gmail.com](https://img.shields.io/static/v1?label=nburneydev@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:nburneydev@gmail.com)
   
   
-👨‍💻 19 year old software dev  
+👨‍💻 20 year old software dev  
 🚧 **current project:** fitrepo
 
