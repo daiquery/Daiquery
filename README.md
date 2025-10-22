@@ -6,5 +6,7 @@
   
   
 👨‍💻 20 year old software dev  
-🚧 **current project:** fitrepo
+🚧 **current project:** [runsmith](https://runsmith.co) (in beta testing!)
+
+
 
